@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Susankrah
+- 👋 Hi, I’m @Smeak
 - 👀 I’m interested in Progamming and coding
 - 🌱 I’m currently Majoring in Computer Science
 - 💞️ I’m looking to collaborate on ...
